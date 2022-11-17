@@ -1,2 +1,2 @@
 # ladder
-Just boring programs in ladder 
+Aburrida "programación" en Ladder 
